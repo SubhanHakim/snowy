@@ -71,7 +71,7 @@ export default function About() {
                 {/* center text + contract */}
                 <div className="flex-1 max-w-3xl text-center px-4">
                     <span className="inline-block text-xs sm:text-sm font-semibold tracking-widest text-red-300 uppercase mb-3">
-                        JOIN THE PENGUMAZZ CULT
+                        JOIN THE SNOWY CULT
                     </span>
 
                     <h2 className="mt-2 text-2xl sm:text-3xl md:text-4xl font-extrabold text-white uppercase border-b-4 border-red-600 pb-3 mx-auto">

@@ -60,7 +60,7 @@ export default function Nav() {
                         target="_blank"
                         className="transition-colors duration-300 ease-in-out font-stopbuck text-lg sm:text-2xl rounded-xl px-3.5 py-2.5 font-medium shadow-2xl bg-black text-white hover:bg-white hover:text-gray-900 outline-2 outline-offset-0"
                     >
-                        Buy $PENGUMAZZ
+                        Buy $SNOWY
                     </a>
                 </div>
             </div>
