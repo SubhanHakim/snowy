@@ -8,7 +8,7 @@ export default function About() {
     const leftImgRef = useRef<HTMLImageElement | null>(null)
     const rightImgRef = useRef<HTMLImageElement | null>(null)
     const [copied, setCopied] = useState(false)
-    const CONTRACT = '0x1234567890AbCdEf1234567890aBcDEF12345678' // ganti dengan CA asli
+    const CONTRACT = 'Coming Soon' // ganti dengan CA asli
 
     const handleCopy = async () => {
         try {
