@@ -66,7 +66,7 @@ export default function Hero() {
 
                 <div className="flex items-center gap-4 mt-2">
                     <a
-                        href="https://twitter.com"
+                        href="https://x.com/i/communities/1996189877717840059"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="Twitter"
